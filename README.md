@@ -1,9 +1,8 @@
 # PortableDesk
 Folding computer desk for stowing away or moving easily
 
-<img src="https://github.com/theHeathLee/PortableDesk/blob/main/Images/NormalMode.JPG?raw=true" alt="Normal Mode" width="400" />
-<img src="https://github.com/theHeathLee/PortableDesk/blob/main/Images/Backside_Folded.JPG?raw=true" alt="Backside Folded" width="400" />
-<img src="https://github.com/theHeathLee/PortableDesk/blob/main/Images/Doorway_Folded.JPG?raw=true" alt="Doorway Folded" width="400" />
+<img src="https://github.com/theHeathLee/PortableDesk/blob/main/Images/banner.JPG?raw=true" alt="Normal Mode" width="800" />
+
 
 ### Aluminum Profiles
 | Product       | Size                 | Quantity       | Placement |
