@@ -1,7 +1,7 @@
 # PortableDesk
 Folding computer desk for stowing away or moving easily
 
-<img src="https://github.com/theHeathLee/PortableDesk/blob/main/Images/banner.JPG?raw=true" alt="Normal Mode" width="800" />
+<img src="https://github.com/theHeathLee/PortableDesk/blob/main/Images/banner.png?raw=true" alt="Normal Mode" width="800" />
 
 
 ### Aluminum Profiles
